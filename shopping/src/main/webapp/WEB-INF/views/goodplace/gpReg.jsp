@@ -115,7 +115,7 @@
 							<li><a href="#">굿플6</a></li>
 							<li><a href="#">굿플7</a></li>
 							<li><a href="#">굿플8</a></li>
-							<li><a href="#">굿플9</a></li>
+							
 						</ul>
 					</div>
 				</div>
